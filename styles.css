@@ -104,11 +104,11 @@ ul li span:hover{
     .container{
         display: flex;
         justify-content: center;
-        align-items: center;
+        align-items: flex-start;
     }
     .todo-app{
         width:320px;
-        margin: 0 20px;
+        margin: 20px 20px;
         padding: 30px 20px 40px;
     }
     button{
